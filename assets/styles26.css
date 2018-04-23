@@ -1,0 +1,536 @@
+/** Home Page **/
+body {
+  padding-bottom: 40px;
+}
+
+a{
+  color: #fff;
+  cursor:pointer;
+}
+button{
+  cursor:pointer;
+}
+
+.col-center{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.form-control{
+  border-radius: 20px;
+}
+
+.middle{
+  width: 50%;
+  border: solid 1px grey;
+  box-shadow:  0px 2px 10px rgb(196, 195, 194);
+}
+.forty{
+  width: 45%;
+  display: inline-block;
+  margin: 2% 2% 2% 2%;
+ 
+}
+
+.forty label{
+  font-weight: bold;
+  color:black;
+}
+
+.fort{
+  width: 45%;
+  display: inline-block;
+  margin: 0% 1.5% 2% 1.5%;
+ 
+}
+
+.fort label{
+  font-weight: bold;
+  
+}
+
+.btn{
+  cursor: pointer;
+}
+
+.form-control{
+  border: solid 1px grey;
+}
+
+#firsth3{
+  margin-bottom: 3%;
+}
+.reduce{
+  width: 95%;
+  margin-left: 2%;
+}
+
+.reduce2{
+  width: 70%;
+  margin-left: 15%;
+}
+.reduce label{
+  font-weight: bold;
+  color:black;
+  
+}
+
+body {
+  background: url(../img/fondo.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  width: 100%;
+  
+}
+
+.contenedor{
+          z-index: 1;
+          background-color: #fff;
+          border-radius: 20px;
+         
+          padding: 10px;
+      }
+
+.contenedor_reg{
+          z-index: 1;
+          background-color: #fff;
+          border-radius: 20px;
+          width: 65%;
+          padding: 2% 5% 3% 5%;
+          margin-top: -4%;
+          margin-left: 17%;
+      }
+
+.contenedor1{
+  z-index: 1;
+  background-color: rgba(255,255,255, 0.6);
+  border-radius: 20px;
+  width: 100%;
+  padding: 15px;
+ 
+}
+.contenedor11{
+  z-index: 1;
+  background-color: rgba(255,255,255, 0.6);
+  border-radius: 20px;
+  width: 100%;
+  padding: 15px;
+ 
+}
+
+.alinear{
+  display: inline-block;
+}
+
+.ayuda{
+  width: 100%;
+}
+
+.contenedor h2{
+
+  color: #000000;
+}
+
+.contenedor2{
+  margin-top: -3%;
+  z-index: 1;
+  background-color: #fff;
+  border-radius: 20px;
+  width: 150%;
+  height: 24em;
+  padding: 5.5% 0% 5.5% 0%;
+  border: solid 15px rgba(255,255,255, 0.3);
+}
+
+.contenedor2 h2{
+  width: 80%;
+  color: #000000;
+}
+#opaca{
+  background-color: rgba(255,255,255, 0.6);
+  border-radius: 20px;
+  width: 40%;
+  height: 28em;
+ padding-top: 4%;
+ padding-left: -2
+}
+
+.contenedor3{
+  z-index: 1;
+  background-color: #fff;
+  border-radius: 20px;
+  width: 40%;
+  opacity: 1 !important;
+  padding: 8% 4% 8% 4%;
+}
+
+
+.contenedor-transacciones{
+          z-index: 1;
+          background-color: #fff;
+          border-radius: 2px;
+          width: 100%;
+          padding: 0% 3% 2% 3%;
+          overflow:auto;
+          height:20em;
+     
+      }
+
+      .contenedor-transacciones table{
+       width: 100%;
+      
+      }
+
+      .contenedor-transacciones .title{
+        border-bottom: solid 1px rgb(224, 219, 213);
+         padding: 2% 0% 0.5% 0% ;
+         background-color: rgba(224, 225, 226,0.4);
+      }
+
+      .contenedor-transacciones td{
+       text-align: center;
+
+      }
+      .contenedor-transacciones tr:hover{
+       background-color:rgba(244, 215, 198, 0.7) ;
+      }
+      .contenedor-transacciones .jj{
+        padding: 1% 0% 1% 0%;
+      }
+
+
+
+
+
+.contenedor-dbanco{
+          z-index: 1;
+          background-color: #fff;
+          border-radius: 2px;
+          padding: 0% 3% 2% 3%;
+          width: 110%;
+         
+      }
+
+      .contenedor-dbanco .title{
+        
+        
+        border-bottom: solid 1px rgb(224, 219, 213);
+      
+      padding-top: 2%;
+      }
+      .contenedor-dbanco td{
+      
+        text-align: left;
+        width: 12%;
+      }
+      .contenedor-dbanco tr:hover{
+       background-color:rgba(244, 215, 198, 0.7) ;
+      }
+      
+      .contenedor-dbanco .jj{
+        padding: 1% 0% 1% 0%;
+      }
+      .contenedor-dbanco .kk{
+        text-align: center;
+      }
+      #scroll-banco{
+        overflow: auto;
+        height: 15em;
+      }
+      #consulta{
+        position: absolute;
+        top: 79%;
+        left: 93%;
+      }
+
+
+
+#mover{
+  margin-left: 12%;
+}
+.datos{
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+#up{
+  margin-top: -2%;
+}
+.left{
+  margin-left: 5%;
+}
+.lefted{
+  margin-left: 5%;
+  margin-top: 1%;
+}
+.right{
+  position: absolute;
+  margin-left: 38%;
+}
+        .grey{
+          margin-top: 14.5%;
+          width: 100%;
+        }
+
+        .right select{
+          display: block;
+          padding-bottom: 8%;
+
+
+          border:solid 1px grey;
+          background-color: rgb(224, 225, 226);
+          border-radius:0px 20px 20px 0px; 
+         
+        }
+
+
+#myBtncondiciones{
+  font-size: 16px;
+  font-weight: bold;
+}
+ 
+#se{
+  background-color: #fff !important;
+  padding: 1.5% 1% 0.2% 1%;
+  border-radius: 90px;
+  margin-top: 2%;
+  margin-left: 1%;
+  width: 98%;
+}
+
+.botoniniciar{
+  border-radius: 20px;
+  background-color: #d35400;
+  color: #fff;
+}
+
+.btnn:hover{
+  background-color: #fff;
+  color: orange;
+}
+
+.botoniniciar2{
+  border-radius: 20px;
+  background-color: #d35400;
+  color: #fff;
+}
+
+#myBtn4{
+  float: right;
+  position: absolute;
+  top: 62%;
+  left: 80%;
+  padding: 2% 3.5%;
+  border-radius: 40px;
+}
+.middled{
+  width: 45%;
+  margin-left: -1%;
+  margin-top: 1%;
+  border: solid 1px grey;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  box-shadow:  0px 2px 10px rgb(196, 195, 194);
+  display: inline-block;
+  z-index: -14;
+
+}
+#myBtn5{
+  float: right;
+  position: absolute;
+  top: 38%;
+  left: 80%;
+  padding: 2% 3.5%;
+  border-radius: 40px;
+}
+#myBtn6{
+  margin: 1% 0 1% -40%;
+}
+
+#regular{
+  margin-left: -40%;
+ display: inline-block;
+  border:solid 1px grey;
+  background-color: rgb(224, 225, 226);
+  border-radius:20px 0px 0px 20px; 
+  font-weight: bold;
+  font-size: 15px;
+  padding: 6px 7px 8px 9px;
+  z-index: 10;
+}
+
+.dropdown-menu{
+  margin-left: -60%;
+}
+
+.acom{
+  position: fixed;
+  margin-left: 43% !important;
+  top: 87%;
+  width: 20%;
+}
+.acom img{
+  width: 28%;
+  margin-left: 5%;
+}
+.acom img:hover{
+  opacity: 1;
+  cursor: pointer;
+}
+
+.nav-item{
+  cursor: pointer;
+}
+
+.nav-item .olvido{
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+/** Login Page **/
+#login {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-signin {
+    max-width: 300px;
+    padding: 19px 29px 29px;
+    margin: 0 auto 20px;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+}
+#login .form-signin .form-signin-heading,
+#login .form-signin .checkbox {
+    margin-bottom: 10px;
+}
+#login .form-signin input[type="text"],
+#login .form-signin input[type="password"],
+#login .form-signin input[type="email"] {
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+}
+
+nav{
+  z-index: 99;
+}
+
+.navbar-toggler{
+  z-index: 99999;
+}
+
+
+.navbar-collapse{
+  background-color: transparent;
+}
+
+.navbar{
+  background-color: transparent;
+  height: 75px;
+}
+
+.colibri{
+  width: 90%;
+}
+
+.colibri-home{
+  width: 40% !important;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-left: 3%;
+}
+
+.orinoco{
+  width: 20%;
+}
+
+
+.orinoco-home{
+  width: 60% !important;
+  margin-top: 7px;
+}
+
+
+      .botoniniciar{
+        border-radius: 20px;
+        background-color: #d35400;
+        color: #fff;
+      }
+
+      .botonuser{
+        margin-top: 5px;
+        border-radius: 20px;
+        background-color: #f1c40f;
+        color: #000000;
+      }
+
+.fpass{
+padding-top: 30px;
+}
+
+.modal-lg{
+  margin-left: 25% !important;
+}
+
+.btn-warning{
+  margin-left: -90%;
+  opacity: 1 !important;
+}
+
+#contenedorsomos{
+          z-index: 1;
+          background-color: #fff;
+          border-radius: 20px;
+         
+          padding: 10px;
+      }
+
+      #contenedorsomos #colibri{
+        width: 50%;
+        position: absolute;
+        opacity: 0.16;
+        top: 30%;
+        left: 25%;
+      }
+
+      #contenedorsomos h3{
+        z-index: 99;
+      }
+      #lados{
+        text-align: center;
+        margin-left: 25%;
+        width: 60%;
+      } 
+
+      .izquier{
+        width: 90%;
+      }
+      
+      .dere{
+        width: 40%;
+      }
+      #cont{
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 3%;
+      }
+
+      .quien{
+        text-align: justify;
+        margin: 2% 0 4% 5%;
+      }
+      .quien a{
+        color: blue !important;
+      }

@@ -1,0 +1,93 @@
+  #contenedor-transacciones{
+          z-index: 1;
+          width: 110%;
+          overflow:auto;
+          height:37em;
+          margin-top: 2%;
+     
+      }
+
+      #contenedor-transacciones table{
+       width: 100%;
+     
+      
+      }
+      .tbody{
+        background: #edeeef;
+       border-radius: 40px;
+       padding: 2%;
+       width: 90%;
+      }
+
+
+      .contenedor-transacciones .title{
+        border-bottom: solid 1px rgb(224, 219, 213);
+         padding: 2% 0% 0.5% 0% ;
+         background-color: rgba(224, 225, 226,0.4);
+      }
+
+      #contenedor-transacciones th{
+       font-size: 1vw;
+
+      }
+      #contenedor-transacciones th h6{
+       font-size: 1vw;
+
+      }
+      #contenedor-transacciones th h3{
+       font-size: 2vw;
+
+      }
+      #contenedor-transacciones td h3{
+       font-size: 2vw;
+
+      }
+      #contenedor-transacciones td button{
+       font-size: 1vw;
+
+      }
+      #contenedor-transacciones td{
+       font-size: 1vw;
+
+      }
+      .contenedor-transacciones tr:hover{
+       background-color:rgba(244, 215, 198, 0.7) ;
+      }
+      .contenedor-transacciones .jj{
+        padding: 1% 0% 1% 0%;
+      }
+}
+
+#contenedor-trealixadas{
+          z-index: 1;
+          width: 100%;
+          overflow:auto;
+          height:37em;
+          margin-top: 2%;
+     
+      }
+
+      #contenedor-trealizadas table{
+       width: 100%;
+       margin-top: 2%;
+      
+      }
+
+      #realiz tr:hover{
+        background-color: #53c1af;
+      }
+
+#tasastyle{
+  float: center;
+  margin-top: 2%;
+}
+#tasastyle input{
+  display: block;
+  width: 30%;
+}
+.block{
+  margin-left: 6%;
+}
+#tasastyle button{
+  margin-left: 15%;
+}

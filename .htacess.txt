@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTPS_HOST} ^orinococambio.com [NC]
+RewriteRule ^(.*)$ https://orinococambio.com/$1 [L,R=301]

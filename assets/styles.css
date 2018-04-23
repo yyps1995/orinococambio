@@ -1,0 +1,146 @@
+/** Home Page **/
+body {
+	padding-bottom: 40px;
+}
+
+a{
+  color: #fff;
+}
+
+.col-center{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.form-control{
+  border-radius: 20px;
+}
+
+a{
+  cursor: pointer;
+}
+          body {
+        background: url(../img/fondo.jpg) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        width: 100%;
+        opacity: 0.8;
+        }
+
+     .contenedor{
+          z-index: 1;
+          background-color: #fff;
+          border-radius: 20px;
+          width: 100%;
+          padding: 35px;
+      }
+
+      .contenedor h2{
+        color: #000000;
+      }
+
+      .botoniniciar{
+        border-radius: 20px;
+        background-color: #d35400;
+        color: #fff;
+      }
+
+.nav-item{
+  cursor: pointer;
+}
+
+.nav-item .olvido{
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+/** Login Page **/
+#login {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-signin {
+    max-width: 300px;
+    padding: 19px 29px 29px;
+    margin: 0 auto 20px;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+}
+#login .form-signin .form-signin-heading,
+#login .form-signin .checkbox {
+    margin-bottom: 10px;
+}
+#login .form-signin input[type="text"],
+#login .form-signin input[type="password"],
+#login .form-signin input[type="email"] {
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+}
+
+nav{
+  z-index: 99;
+}
+
+.navbar-toggler{
+  z-index: 99999;
+}
+
+
+.navbar-collapse{
+  background-color: transparent;
+}
+
+.navbar{
+  background-color: transparent;
+  height: 75px;
+}
+
+.colibri{
+  width: 90%;
+}
+
+.colibri-home{
+  width: 40% !important;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-left: 3%;
+}
+
+.orinoco{
+  width: 20%;
+}
+
+
+.orinoco-home{
+  width: 60% !important;
+  margin-top: 7px;
+}
+
+
+      .botoniniciar{
+        border-radius: 20px;
+        background-color: #d35400;
+        color: #fff;
+      }
+
+      .botonuser{
+        margin-top: 5px;
+        border-radius: 20px;
+        background-color: #f1c40f;
+        color: #000000;
+      }
+
+.fpass{
+padding-top: 30px;
+}

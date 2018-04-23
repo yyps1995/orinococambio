@@ -1,0 +1,29 @@
+[27-Mar-2018 04:46:44 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:46:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:47:58 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:47:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:48:08 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:48:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:48:20 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 04:48:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 05:00:49 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 05:00:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 05:00:57 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 05:00:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 05:01:11 UTC] PHP Warning:  mysqli::mysqli(): The server requested authentication method unknown to the client [mysql_old_password] in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[27-Mar-2018 05:01:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2054): The server requested authentication method unknown to the client in /home/orinococ/public_html/admin/php/dbconfig.php on line 2
+[06-Apr-2018 10:14:02 UTC] PHP Warning:  require_once(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/orinococ/public_html/admin/class.user.admin.php on line 86
+[06-Apr-2018 10:14:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'mailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/orinococ/public_html/admin/class.user.admin.php on line 86
+[06-Apr-2018 10:14:09 UTC] PHP Warning:  require_once(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/orinococ/public_html/admin/class.user.admin.php on line 86
+[06-Apr-2018 10:14:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'mailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/orinococ/public_html/admin/class.user.admin.php on line 86
+[06-Apr-2018 22:07:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=880440 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[06-Apr-2018 22:11:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=880783 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[06-Apr-2018 22:14:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=880935 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[06-Apr-2018 22:25:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=886912 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[06-Apr-2018 22:28:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=886924 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[06-Apr-2018 22:28:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=886952 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[06-Apr-2018 23:10:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=898409 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 113
+[09-Apr-2018 21:12:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=175816 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[10-Apr-2018 22:54:00 UTC] PHP Warning:  Error while sending QUERY packet. PID=748977 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 113
+[12-Apr-2018 13:29:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=616755 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
+[12-Apr-2018 13:29:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=616843 in /home/orinococ/public_html/admin/php/transaccionesrealizadas.php on line 97
